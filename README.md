@@ -23,6 +23,8 @@
 - Read over these specs and draw a mockup of your app (don't worry about bonus features at this point)
 
 - Must have grocery items in this shape
+
+```
   {
   item: '',
   brand '',
@@ -30,6 +32,7 @@
   quantity: 0,
   isPurchased: false
   }
+```
 
 - Make an array of 3 objects using the above shape and render the item, quantity and units (12 pack, 1lb, 2 liters, etc.)
 
